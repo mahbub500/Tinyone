@@ -1,0 +1,103 @@
+/*font-family: 'PT Sans', sans-serif;*/
+body{
+     font-family: 'PT Sans', sans-serif;
+}
+/*header start*/
+header{
+    background-color: #fcdb00;
+}
+.custom_nav{
+    padding: 50px 0;
+}
+.custom_nav ul li a{
+    font-size: 22px;
+    font-weight: bold;
+    padding: 0 50px !important;
+}
+.custom_nav ul li:last-child a{
+    padding-right: 0px !important;
+}
+.banner{
+     background-color: #fcdb00;
+    padding-bottom: 50px;
+}
+.banner_content{
+    margin-top: 70px;
+}
+.banner_content h1{
+    font-size: 32px;
+    font-weight: bold;
+}
+.pera_1{
+    font-size: 20px;
+}
+.pera_2{
+    font-size: 16px;
+}
+.icon ul li i{
+    font-size: 40px;
+    padding: 0 10px;
+}
+.banner_image{
+    text-align: center;
+}
+/*service start*/
+
+.service{
+    padding: 100px 0;
+}
+.service_text{
+  padding-bottom: 50px;
+}
+.service_text h1{
+    font-size: 32px;
+    font-weight: bold;
+}
+.service_text p{
+    font-size: 20px;
+}
+.service_item{
+    
+}
+.icon_bar_logo{
+    margin-top: 10px;
+}
+.icon_bar_text h1{
+    font-size: 20px;
+    font-weight: bold;
+}
+.icon_bar_text p{
+    font-size: 16px;
+    color: #a7a7a7;
+}
+/*service end*/
+
+/*footer start*/
+footer{
+    background-color: #010101
+}
+.footer_head{
+    padding: 50px 0;
+}
+.footer_head h1{
+    font-size: 32px;
+    font-weight: bold;
+    color: #fcdb00;
+}
+.footer_head p{
+    font-size: 20px;
+    color: #898989;
+}
+.btn_submit{
+    background-color: #fcdb00;
+}
+.footer_image{
+    padding: 60px;
+}
+.footer_image ul li img{
+    padding: 0 5px;
+}
+.footer_info{
+   color: #898989;
+}
+/*footer end*/

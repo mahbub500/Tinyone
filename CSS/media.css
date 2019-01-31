@@ -1,0 +1,81 @@
+/*/Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+    .custom_nav ul li a{
+        text-align: right;
+        padding: 0 !important;
+    }
+    .banner_content h1{
+        font-size: 28px;
+        padding: 5px 0;
+        
+    }
+    .icon{
+        text-align: center;
+    }
+    .banner_image{
+        text-align: center;
+    }
+    .service_item{
+        text-align: center;
+    }
+    .icon_bar_logo{
+        text-align: center;
+    }
+/*
+    .icon_bar_text{
+        text-align: right;
+    }
+*/
+/*
+    .icon_bar_text p{
+        text-align: center;
+    }
+*/
+    .btn_submit{
+        margin: 15px 0;
+    }
+    .footer_image{
+        text-align: center !important;
+        padding: 30px 0;
+    }
+    .footer_info{
+        text-align: center;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .custom_nav ul li a{
+        text-align: right;
+        padding: 0 !important;
+    }
+    .icon{
+        text-align: center;
+        margin: 35px 0;
+    }
+    .banner_image{
+        text-align: center;
+    }
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+    .custom_nav{
+        padding: 0 !important;
+    }
+   
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+}
